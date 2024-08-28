@@ -30,25 +30,25 @@ We currently do not accept PRs that involve:
 
 You can find all existing issues [here](https://github.com/foss42/apidash/issues). A good place to start is to take a look at ["good first issues"](https://github.com/foss42/apidash/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
 
-**Step 1** - Identify the issue you want to work on.  
-**Step 2** - Comment on the issue so that we can discuss how to approach and solve the problem.  
-**Step 3** - Fork the [`foss42/apidash`](https://github.com/foss42/apidash) repo to your account.  
-**Step 4** - Create a new branch in your fork and name it `add-feature-xyz` or `resolve-issue-xyz`.  
-**Step 5** - Run API Dash locally (More details [here](#how-to-run-api-dash-locally)).  
-**Step 6** - Make code changes in the branch.  
-**Step 7** - Once code changes have been made. Make sure you add the relevant tests in the `test` folder and run tests (More details [here](#how-to-run-tests)).  
-**Step 8** - [Open a Pull Request](https://help.github.com/articles/using-pull-requests/) with a clear title and description and add a reference to the issue (`#issue-number`).  
+**Step 1** - Identify the issue you want to work on.
+**Step 2** - Comment on the issue so that we can discuss how to approach and solve the problem.
+**Step 3** - Fork the [`foss42/apidash`](https://github.com/foss42/apidash) repo to your account.
+**Step 4** - Create a new branch in your fork and name it `add-feature-xyz` or `resolve-issue-xyz`.
+**Step 5** - Run API Dash locally (More details [here](#how-to-run-api-dash-locally)).
+**Step 6** - Make code changes in the branch.
+**Step 7** - Once code changes have been made. Make sure you add the relevant tests in the `test` folder and run tests (More details [here](#how-to-run-tests)).
+**Step 8** - [Open a Pull Request](https://help.github.com/articles/using-pull-requests/) with a clear title and description and add a reference to the issue (`#issue-number`).
 **Step 9** - Wait for feedback and review. We will closely work with you on the Pull Request.
 
 ### Adding a new feature
 
-**Step 1** - Open an [issue](https://github.com/foss42/apidash/issues/new/choose) so that we can discuss on the new feature.  
-**Step 2** - Fork the [`foss42/apidash`](https://github.com/foss42/apidash) repo to your account.  
-**Step 3** - Create a new branch in your fork and name it `add-feature-xyz`.  
-**Step 4** - Run API Dash locally (More details [here](#how-to-run-api-dash-locally)).  
-**Step 5** - Make the necessary code changes required to implement the feature in the branch.  
-**Step 6** - Once the feature is implemented. Make sure you add the relevant tests in the `test` folder and run tests (More details [here](#how-to-run-tests)).  
-**Step 7** - [Open a Pull Request](https://help.github.com/articles/using-pull-requests/) with a clear title and description and add a reference to the issue (`#issue-number`).  
+**Step 1** - Open an [issue](https://github.com/foss42/apidash/issues/new/choose) so that we can discuss on the new feature.
+**Step 2** - Fork the [`foss42/apidash`](https://github.com/foss42/apidash) repo to your account.
+**Step 3** - Create a new branch in your fork and name it `add-feature-xyz`.
+**Step 4** - Run API Dash locally (More details [here](#how-to-run-api-dash-locally)).
+**Step 5** - Make the necessary code changes required to implement the feature in the branch.
+**Step 6** - Once the feature is implemented. Make sure you add the relevant tests in the `test` folder and run tests (More details [here](#how-to-run-tests)).
+**Step 7** - [Open a Pull Request](https://help.github.com/articles/using-pull-requests/) with a clear title and description and add a reference to the issue (`#issue-number`).
 **Step 8** - Wait for feedback and review. We will closely work with you on the Pull Request.
 
 ### Adding a new test
@@ -62,12 +62,12 @@ You can contribute by adding missing/new tests for:
 - Code generation (`lib/codegen/`)
 - Services (`lib/services/`).
 
-**Step 1** - Identify the test you want to add or improve.  
-**Step 2** - Fork the [`foss42/apidash`](https://github.com/foss42/apidash) repo to your account.  
-**Step 3** - Create a new branch in your fork and name it `add-test-xyz`.  
-**Step 4** - Add the test to an existing test file or create a new test file in the `test` folder.  
-**Step 5** - Run the tests locally (More details [here](#how-to-run-tests)).  
-**Step 6** - [Open a Pull Request](https://help.github.com/articles/using-pull-requests/) with a clear title and description of the tests you are adding.  
+**Step 1** - Identify the test you want to add or improve.
+**Step 2** - Fork the [`foss42/apidash`](https://github.com/foss42/apidash) repo to your account.
+**Step 3** - Create a new branch in your fork and name it `add-test-xyz`.
+**Step 4** - Add the test to an existing test file or create a new test file in the `test` folder.
+**Step 5** - Run the tests locally (More details [here](#how-to-run-tests)).
+**Step 6** - [Open a Pull Request](https://help.github.com/articles/using-pull-requests/) with a clear title and description of the tests you are adding.
 **Step 7** - Wait for feedback and review. We will closely work with you on the Pull Request.
 
 ## General Instructions

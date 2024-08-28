@@ -39,7 +39,7 @@ API Dash can be downloaded from the links below:
         </tr>
         <tr>
             <td rowspan=5>Linux</td>
-            <td rowspan=2><code>.deb</code></td>          
+            <td rowspan=2><code>.deb</code></td>
             <td rowspan=2><a href="https://github.com/foss42/apidash/blob/main/INSTALLATION.md#debian-based-linux-distributions-debian-ubuntu-linux-mint-etc">Link</a></td>
             <td>amd64</td>
             <td><a href="https://github.com/foss42/apidash/releases/latest/download/apidash-linux-amd64.deb">Link</a></td>
